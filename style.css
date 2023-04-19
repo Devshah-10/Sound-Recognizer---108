@@ -1,0 +1,70 @@
+.body {
+
+    background-color: peachpuff;
+}
+
+.Header_div {
+
+background-color: rgb(233, 184, 93);
+color: rgb(255, 59, 92);
+font-weight: bolder;
+font-size: 20px;
+
+}
+
+.footer {
+
+    background-color: rgb(233, 184, 93);
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+
+}
+
+.footer_text {
+
+font-weight: bolder;
+color: rgb(255, 59, 92);
+text-shadow: 5px 5px 5px rgb(44, 44, 44);
+font-family: 'Alkatra';
+
+}
+
+.Ear_photo {
+
+width: 200px;
+height: 220px;
+margin-left: 30px;
+margin-top: 50px;
+}
+
+.Start_Button {
+
+width:80px;
+height: 40px;
+font-size: 20px;
+color: black;
+border-radius: 40px;
+
+}
+
+.Header_div h3 {
+
+font-weight: 900;
+
+}
+
+.Header_div p {
+
+font-weight: 700;
+font-family: 'Alkatra';
+
+}
+
+.main_div label {
+
+    font-weight: 600;
+    font-family: 'Alkatra';
+
+}
